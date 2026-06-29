@@ -1,2 +1,11 @@
 numpy
 librosa
+torch
+soundfile
+demucs
+tqdm
+silero-vad
+resemble-enhance
+scipy
+transformers
+TTS

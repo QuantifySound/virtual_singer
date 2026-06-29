@@ -63,7 +63,7 @@ Este módulo lida com a animação facial guiada por áudio para os clipes e nar
 
 ## Resultados e Apresentações
 
-Abaixo você encontra o material consolidado com as demonstrações e explicações técnicas do projeto:
+Abaixo estão os links dos resultados do projeto:
 
 * [Apresentação de Slides (Canva)](https://canva.link/753ngig35ztpwid)
 * [Vídeo de Demonstração (YouTube)](https://youtu.be/QsHrDkdprEM)

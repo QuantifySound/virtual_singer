@@ -1,4 +1,4 @@
-# Projeto: Cantor Virtual (Quantify Sound Virtual Singer)
+# Projeto: Cantor Virtual
 
 Este repositório contém os módulos para análise de voz, treinamento e geração de voz artificial e avatares em vídeo do projeto de Cantor Virtual.
 

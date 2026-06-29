@@ -30,6 +30,9 @@ Desses números saíram três conclusões práticas:
 2. **Textura e Qualidade:** A voz é quente e encorpada, não fina nem áspera. O centroide e o rolloff baixos indicam peso nos médios-graves com brilho moderado. A flatness baixíssima confirma uma voz harmônica e limpa (com pouco ruído), e a razão harmônico/percussivo moderada sugere uma leve qualidade aveludada/respirada.
 3. **Viabilidade para Clonagem:** A voz é **tecnicamente ideal para clonagem**. Uma fonte limpa e estável é exatamente o que modelos (como RVC, SVC ou F5-TTS) precisam para render bem; vozes ruidosas ou instáveis fazem o modelo aprender o ruído junto. Isso justificou a recomendação de repertório na faixa C3–E4, com andamento médio, evitando músicas de tenor agudo ou muito "gritadas".
 
+**Escolha do repertório:**
+Uma vez entendida a proposta, corpo e cor da voz buscamos músicas que melhor se encaixassem dentro da faixa C3-E4. Não nos preocupamos com a nota do artista, mas sim com a nota do arranjo musical. As músicas escolhidas foram as que aparecem na apresentação final e teve nossa curadoria para isso (somente a música Wakawaka que não passou por este crivo).
+
 ### 2. Separação de Voz e Treinamento SVC (`voz_arlindo_svc`)
 Este módulo converte o vocal de músicas para o timbre do Arlindo, utilizando a abordagem de **Singing Voice Conversion (SVC)** com o modelo **Seed-VC fine-tuned**.
 
